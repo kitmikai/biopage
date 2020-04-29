@@ -1,5 +1,5 @@
-![A pretty tiger](./img/design.JPG)
-#Biography page
+![Page design](./img/design.JPG)
+# Biography page
 HTML and CSS are important when building websites. This design done in PowerPoint and then converted to a webpage.
 ### Built with
 * HTML
