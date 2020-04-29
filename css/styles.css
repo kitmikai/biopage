@@ -15,17 +15,18 @@ nav {
 }
 
 .jumbotron {
-  height: 400px;
+  height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
   margin: 0px 200px 0px 200px;
+  padding: 0px;
+  border: 0px;
 }
 
 .jumbotron .container {
   position: relative;
   top:200px;
-  vertical-align: bottom;
 }
 
 .jumbotron h1 {
@@ -35,11 +36,7 @@ nav {
   font-weight: bold;
   margin-bottom: 0px;
   padding: 0px;
-}
-
-.jumbotron p {
-  font-size: 20px;
-  color: #fff;
+  vertical-align: bottom;
 }
 
 .minitron {
@@ -63,11 +60,6 @@ nav {
   font-family: 'Calibri Light', sans-serif;
   font-weight: normal;
   vertical-align: top;
-}
-
-.minitron p {
-  font-size: 20px;
-  color: #fff;
 }
 
 .iconbox {
